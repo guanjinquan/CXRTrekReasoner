@@ -9,8 +9,6 @@ __pycache__/
 
 # Dataset 
 dataset/*
-ms-swift/docs
-ms-swift/test
 
 # Distribution / packaging
 .Python
