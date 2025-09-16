@@ -35,6 +35,69 @@ class CXRTrekScheduler_NoThink_OnlyRewardStage8(MultiTurnScheduler):
         self.log_fh = open(log_file, "a")
         print(f"Logging to {log_file}")
 
+
+        self.tokenizer = self.infer_engine.tokenizer
+        print("Load Tokenizer Successfully")
+        config = self.infer_engine.config
+        print("Load Model Config Successfully")
+
+        self.special_token_ids_to_replace = set()
+        self.space_token_id = self.tokenizer.encode(" ")[1]
+        print(f"Initial space token ID: {self.space_token_id}")
+        
+        special_token_config_keys = [
+            'image_token_index', 
+            'boi_token_index', 
+            'eoi_token_index'
+        ]
+
+        print("--- Loading Special Token IDs from Model Config ---")
+        for key in special_token_config_keys:
+            if hasattr(config, key):
+                token_id = getattr(config, key)
+                if token_id is not None and isinstance(token_id, int):
+                    self.special_token_ids_to_replace.add(token_id)
+                    print(f"Found and added special token ID from config key '{key}': {token_id}")
+            else:
+                print(f"Warning: Config key '{key}' not found in model config.")
+        
+        print(f"Final set of special token IDs to replace: {self.special_token_ids_to_replace}")
+        print(f"Replacement space token ID: {self.space_token_id}")
+        print("-" * 50)
+
+
+    def mask_special_tokens(self, response_choice: 'ChatCompletionResponseChoice') -> 'ChatCompletionResponseChoice':
+        """
+        Replaces special tokens with a space token.
+
+        This function modifies the token_ids and completion content, and sets
+        logprobs to None, as they will be recalculated later.
+        """
+        original_token_ids = response_choice.token_ids
+        new_token_ids = list(original_token_ids) # Work on a copy
+
+        modified = False
+        for i, token_id in enumerate(new_token_ids):
+            if token_id in self.special_token_ids_to_replace:
+                modified = True
+                new_token_ids[i] = self.space_token_id
+
+        # If any tokens were replaced, update the response object.
+        if modified:
+            # Decode the modified token list to create the new completion string.
+            # Using skip_special_tokens=True is good practice here to clean up any other 
+            # potential special tokens that the tokenizer might recognize.
+            new_completion = self.tokenizer.decode(new_token_ids)
+            
+            # Update token_ids and the completion string
+            response_choice.token_ids = new_token_ids
+            response_choice.message.content = new_completion
+            
+            # Set logprobs to None as requested
+            response_choice.logprobs = None
+        
+        return response_choice
+
     async def run(self, infer_request: 'RolloutInferRequest', request_config: 'RequestConfig',
                   **kwargs) -> List['RolloutOutput']:
         """
@@ -48,6 +111,8 @@ class CXRTrekScheduler_NoThink_OnlyRewardStage8(MultiTurnScheduler):
         Returns:
             List[RolloutOutput]: A list of RolloutOutput objects, one for each reasoning round.
         """
+
+        
 
         # rollout loop
         from swift.llm.infer.protocol import RolloutOutput
@@ -73,8 +138,17 @@ class CXRTrekScheduler_NoThink_OnlyRewardStage8(MultiTurnScheduler):
                 current_request, request_config, **kwargs)
             response_choice: 'ChatCompletionResponseChoice' = response.choices[0]
 
-            # Update conversation history
+            # remove special tag in completion if any
+            response_choice = self.mask_special_tokens(response_choice)
             completion = response_choice.message.content
+
+            # log question and completion
+            self.log_fh.write(f"[Turn {current_turn} question]: {messages[-1]['content']}\n")
+            self.log_fh.write(f"[Turn {current_turn} Response]: {completion}\n")
+            # flush
+            self.log_fh.flush()
+
+            # Update conversation history
             is_continuation = False
             if messages[-1]['role'] == 'assistant':
                 messages[-1]['content'] += completion

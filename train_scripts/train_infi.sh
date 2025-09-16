@@ -9,22 +9,21 @@
 
 export HF_ENDPOINT="https://hf-mirror.com"
 
-
-# 部署指南: /home/Guanjq/Work/CXRTrekReasoner/ms-swift/docs/source/Instruction/推理和部署.md 
-# CUDA_VISIBLE_DEVICES=0 \
-# swift rollout \
-#     --model /home/Guanjq/Work/MTXray/checkpoints/google/medgemma-4b-it \
-#     --vllm_use_async_engine true \
-#     --external_plugins /home/Guanjq/Work/CXRTrekReasoner/ms-swift/myplugins/infer_scheduler.py \
-#     --multi_turn_scheduler cxrtrek_scheduler_nothink_onlyrewardstage8 \
-#     --vllm_max_model_len 32768 \
-#     --max_new_tokens 4096 \
-#     --vllm_gpu_memory_utilization 0.8 \
-#     --max_turns 200
+CUDA_VISIBLE_DEVICES=0 \
+swift rollout \
+    --model /home/Guanjq/Work/MTXray/checkpoints/InfiX-ai/InfiMed-RL-3B \
+    --model_type qwen2_5_vl \
+    --vllm_use_async_engine true \
+    --external_plugins /home/Guanjq/Work/CXRTrekReasoner/ms-swift/myplugins/infer_scheduler.py \
+    --multi_turn_scheduler cxrtrek_scheduler_nothink_onlyrewardstage8 \
+    --vllm_max_model_len 16384 \
+    --vllm_gpu_memory_utilization 0.8 \
+    --max_turns 100
 
 CUDA_VISIBLE_DEVICES=1 NPROC_PER_NODE=1 swift rlhf \
     --rlhf_type grpo \
-    --model /home/Guanjq/Work/MTXray/checkpoints/google/medgemma-4b-it \
+    --model /home/Guanjq/Work/MTXray/checkpoints/InfiX-ai/InfiMed-RL-3B \
+    --model_type qwen2_5_vl \
     --train_type lora \
     --external_plugins /home/Guanjq/Work/CXRTrekReasoner/ms-swift/myplugins/reward_models.py \
     --reward_funcs cxrtrek_stage8_bertscore \
@@ -35,9 +34,9 @@ CUDA_VISIBLE_DEVICES=1 NPROC_PER_NODE=1 swift rlhf \
     --vllm_server_port 8001 \
     --vllm_server_pass_dataset true \
     --torch_dtype bfloat16 \
-    --dataset /home/Guanjq/Work/CXRTrekReasoner/dataset/train_swift_demo.json \
+    --dataset /home/Guanjq/Work/CXRTrekReasoner/dataset/train_swift_demo_one.json \
     --split_dataset_ratio 0 \
-    --max_completion_length 32768 \
+    --max_completion_length 16384 \
     --num_train_epochs 1 \
     --per_device_train_batch_size 1 \
     --learning_rate 2e-5 \

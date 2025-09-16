@@ -66,7 +66,13 @@ class CXRTrekStage8BERTScoreReward(ORM):
             assert len(chat_dict) == 1, f"chat_dict = {chat_dict}"
             for turn_id, qa in enumerate(chat_dict[0]['data_dict']['cxrtrek_data']['content']):
                 # [0: system, 1: user, 2: assistant, 3: user, 4: assistant, ...]
-                assert chat_dict[0]['messages'][2 + 2 * turn_id]['role'] == 'assistant', f"chat_dict = {chat_dict}, turn_id = {turn_id}"
+                try:
+                    assert chat_dict[0]['messages'][2 + 2 * turn_id]['role'] == 'assistant', f"chat_dict = {chat_dict}, turn_id = {turn_id}"
+                except Exception as e:
+                    print(f"Error: {e}")
+                    print(chat_dict)
+                    raise e
+    
                 if qa['stage'] != 8:
                     continue
                 completion = chat_dict[0]['messages'][2 + 2 * turn_id]['content']

@@ -279,8 +279,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient30590/study5/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient30590/study3/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient30590/study5/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient30590/study3/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -857,7 +857,7 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient42250/study1/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient42250/study1/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -1230,8 +1230,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient36781/study3/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient36781/study1/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient36781/study3/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient36781/study1/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -1654,8 +1654,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p10/p10955706/s52323315/72f4bf32-270cd298-ea6aeacc-77f10b76-f67e7107.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p10/p10955706/s53466872/a81b4c7a-c405de4d-c28553e2-feb1eb3a-35b98541.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p10/p10955706/s52323315/72f4bf32-270cd298-ea6aeacc-77f10b76-f67e7107.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p10/p10955706/s53466872/a81b4c7a-c405de4d-c28553e2-feb1eb3a-35b98541.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -2317,8 +2317,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p15/p15392105/s54078455/05dcb3a5-70cae32a-5cf37989-74fec17f-73a9bf77.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p15/p15392105/s54078455/7328c6f7-48268d79-d9b32589-e396237a-812eb915.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p15/p15392105/s54078455/05dcb3a5-70cae32a-5cf37989-74fec17f-73a9bf77.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p15/p15392105/s54078455/7328c6f7-48268d79-d9b32589-e396237a-812eb915.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -2998,8 +2998,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p10/p10314359/s53756981/f71883a5-01eb1b83-efbc20fd-1d161726-4bd9fe0c.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p10/p10314359/s51671566/39e9d48c-457f3be2-17d982f6-0236d1c0-9c08ae0e.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p10/p10314359/s53756981/f71883a5-01eb1b83-efbc20fd-1d161726-4bd9fe0c.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p10/p10314359/s51671566/39e9d48c-457f3be2-17d982f6-0236d1c0-9c08ae0e.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -3566,8 +3566,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient38711/study4/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient38711/study3/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient38711/study4/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient38711/study3/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -3944,7 +3944,7 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p17/p17155697/s54984202/752f2836-91ed189e-bae072ad-1908514f-34b3ea5f.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p17/p17155697/s54984202/752f2836-91ed189e-bae072ad-1908514f-34b3ea5f.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -4311,8 +4311,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p19/p19651050/s59029010/b6227bd7-5121cb57-bca1ac5a-027480dd-d85d404f.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p19/p19651050/s59029010/68e78d3b-f160a8a8-7aa2ac91-625a7431-03567c26.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p19/p19651050/s59029010/b6227bd7-5121cb57-bca1ac5a-027480dd-d85d404f.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p19/p19651050/s59029010/68e78d3b-f160a8a8-7aa2ac91-625a7431-03567c26.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -4743,9 +4743,9 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient12905/study8/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient12905/study1/view2_lateral.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient12905/study1/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient12905/study8/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient12905/study1/view2_lateral.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient12905/study1/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -5371,8 +5371,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient57746/study2/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient57746/study1/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient57746/study2/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient57746/study1/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -5926,8 +5926,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p13/p13566123/s51528935/397d5eab-5c2bc22f-2587e3f2-f6aa4701-3e96b8bb.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p13/p13566123/s51528935/dc006538-70aee556-40276252-ed807d2e-9c192d93.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p13/p13566123/s51528935/397d5eab-5c2bc22f-2587e3f2-f6aa4701-3e96b8bb.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p13/p13566123/s51528935/dc006538-70aee556-40276252-ed807d2e-9c192d93.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -6337,10 +6337,10 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p12/p12655910/s52783846/da9ba040-57078538-55f24e64-0462da56-ff668b0f.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p12/p12655910/s52783846/6ee5e0e5-0042984c-bc6e55c2-9cbe045c-b9afd34e.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p12/p12655910/s54820939/f4ee0446-7d45c0a6-411d6af6-fd3e4ac8-70de8da8.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p12/p12655910/s54820939/a6338f6b-7e2f88f4-ba22dddf-b2afb7be-f306ab3a.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p12/p12655910/s52783846/da9ba040-57078538-55f24e64-0462da56-ff668b0f.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p12/p12655910/s52783846/6ee5e0e5-0042984c-bc6e55c2-9cbe045c-b9afd34e.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p12/p12655910/s54820939/f4ee0446-7d45c0a6-411d6af6-fd3e4ac8-70de8da8.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p12/p12655910/s54820939/a6338f6b-7e2f88f4-ba22dddf-b2afb7be-f306ab3a.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -6911,8 +6911,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p18/p18933476/s51624977/a323cb43-e07ac331-b4d02879-99332fee-9af92966.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p18/p18933476/s58011425/7b06826a-bcd4e00d-de532ae1-e2bebd23-b63fd810.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p18/p18933476/s51624977/a323cb43-e07ac331-b4d02879-99332fee-9af92966.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p18/p18933476/s58011425/7b06826a-bcd4e00d-de532ae1-e2bebd23-b63fd810.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -7563,7 +7563,7 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient41126/study1/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient41126/study1/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -8036,8 +8036,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient27977/study41/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient27977/study25/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient27977/study41/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient27977/study25/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -8417,9 +8417,9 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p15/p15153384/s57776164/6cc63991-3c3ee3d8-497e2556-6e84de93-e3f17cbe.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p15/p15153384/s57776164/571f35b1-59eba303-4284d4eb-55c2e72b-7f132b1b.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p15/p15153384/s55557351/d2aa5b2c-a691c5b3-9fad1687-66e01cab-c1242140.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p15/p15153384/s57776164/6cc63991-3c3ee3d8-497e2556-6e84de93-e3f17cbe.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p15/p15153384/s57776164/571f35b1-59eba303-4284d4eb-55c2e72b-7f132b1b.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p15/p15153384/s55557351/d2aa5b2c-a691c5b3-9fad1687-66e01cab-c1242140.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -8883,8 +8883,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient06738/study2/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient06738/study13/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient06738/study2/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient06738/study13/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -9348,10 +9348,10 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p18/p18202111/s56521378/1e771b65-ff78154d-46ebbbe5-1ea09548-01093eba.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p18/p18202111/s56521378/ae2cc126-1874c297-b31b8524-8926632e-05d12fea.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p18/p18202111/s53427589/6c75c7a9-3efbd77b-66928538-38a7a250-418f7f6f.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p18/p18202111/s53427589/8e879a0d-fad69d79-66f906db-35c81911-d318b735.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p18/p18202111/s56521378/1e771b65-ff78154d-46ebbbe5-1ea09548-01093eba.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p18/p18202111/s56521378/ae2cc126-1874c297-b31b8524-8926632e-05d12fea.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p18/p18202111/s53427589/6c75c7a9-3efbd77b-66928538-38a7a250-418f7f6f.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p18/p18202111/s53427589/8e879a0d-fad69d79-66f906db-35c81911-d318b735.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -9835,7 +9835,7 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient23005/study1/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient23005/study1/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -10240,9 +10240,9 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p19/p19372257/s59612507/1061659b-8891cc3c-16d561bc-ec98a126-34cc6bd2.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p19/p19372257/s56483670/d0918663-db53dffa-fe9f06b0-84d0829b-6471a01b.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p19/p19372257/s56483670/eabec264-f2ef40dc-e3ca7300-aef2af10-3106cb16.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p19/p19372257/s59612507/1061659b-8891cc3c-16d561bc-ec98a126-34cc6bd2.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p19/p19372257/s56483670/d0918663-db53dffa-fe9f06b0-84d0829b-6471a01b.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p19/p19372257/s56483670/eabec264-f2ef40dc-e3ca7300-aef2af10-3106cb16.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -10832,10 +10832,10 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient14167/study12/view2_lateral.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient14167/study12/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient14167/study8/view2_lateral.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient14167/study8/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient14167/study12/view2_lateral.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient14167/study12/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient14167/study8/view2_lateral.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient14167/study8/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -11234,9 +11234,9 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p18/p18652308/s59564074/5f3cd815-0d4d6b1d-25c050ee-06932681-de657ead.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p18/p18652308/s59564074/3fc1daac-3734ccef-c748ac8d-aa574aa3-f2aa8ffe.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p18/p18652308/s57933713/3d33afba-9e3f84b5-4eb41b84-1b143f63-a2cc77f7.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p18/p18652308/s59564074/5f3cd815-0d4d6b1d-25c050ee-06932681-de657ead.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p18/p18652308/s59564074/3fc1daac-3734ccef-c748ac8d-aa574aa3-f2aa8ffe.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p18/p18652308/s57933713/3d33afba-9e3f84b5-4eb41b84-1b143f63-a2cc77f7.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -11848,10 +11848,10 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p12/p12450697/s54970628/f1303817-5cacc48e-f709aab6-7a384104-e7bc2351.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p12/p12450697/s54970628/a98a3b91-a36e03e7-693e7fe9-4737d551-ba155724.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p12/p12450697/s50172639/adb01c99-04c502af-4bcdca6d-c8b6669c-37f56dfb.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p12/p12450697/s50172639/59f73172-39ae2a4b-4dbf1dca-e549dd9e-5472df4e.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p12/p12450697/s54970628/f1303817-5cacc48e-f709aab6-7a384104-e7bc2351.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p12/p12450697/s54970628/a98a3b91-a36e03e7-693e7fe9-4737d551-ba155724.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p12/p12450697/s50172639/adb01c99-04c502af-4bcdca6d-c8b6669c-37f56dfb.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p12/p12450697/s50172639/59f73172-39ae2a4b-4dbf1dca-e549dd9e-5472df4e.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -12510,8 +12510,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient25309/study1/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient25309/study1/view2_lateral.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient25309/study1/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient25309/study1/view2_lateral.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -13152,10 +13152,10 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p10/p10206528/s58947631/f23d1214-43c8ed8e-2e8c97e4-de425ee7-3611099a.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p10/p10206528/s58947631/1bc79bd6-c9085bc5-5321d3d1-13e46217-c4117a92.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p10/p10206528/s51280154/45c882d6-5ca6851e-6d8cc063-89dfbfb1-06a87b6d.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p10/p10206528/s51280154/aeade50e-c5b15008-45c99f8d-964a3ed8-0837060a.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p10/p10206528/s58947631/f23d1214-43c8ed8e-2e8c97e4-de425ee7-3611099a.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p10/p10206528/s58947631/1bc79bd6-c9085bc5-5321d3d1-13e46217-c4117a92.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p10/p10206528/s51280154/45c882d6-5ca6851e-6d8cc063-89dfbfb1-06a87b6d.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p10/p10206528/s51280154/aeade50e-c5b15008-45c99f8d-964a3ed8-0837060a.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -13877,8 +13877,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient02382/study28/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient02382/study10/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient02382/study28/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient02382/study10/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -14308,8 +14308,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient26014/study1/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient26014/study1/view2_lateral.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient26014/study1/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient26014/study1/view2_lateral.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -14554,7 +14554,7 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient54173/study1/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient54173/study1/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -14743,8 +14743,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient37769/study3/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient37769/study1/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient37769/study3/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient37769/study1/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -15247,8 +15247,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p16/p16652205/s56709609/da03e286-18b8ff7f-095cd08f-fe6feba7-dc635b4b.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p16/p16652205/s53656879/e480b960-06027162-6d1d72cb-b359c4d7-9b20e1df.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p16/p16652205/s56709609/da03e286-18b8ff7f-095cd08f-fe6feba7-dc635b4b.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p16/p16652205/s53656879/e480b960-06027162-6d1d72cb-b359c4d7-9b20e1df.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -15907,8 +15907,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p19/p19383212/s59650046/d74d6869-923e3725-fec6eb50-e78693fe-5ee00674.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p19/p19383212/s59650046/2fb84fda-7c43b300-e3b48ae7-62ceaaa0-e62d36f6.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p19/p19383212/s59650046/d74d6869-923e3725-fec6eb50-e78693fe-5ee00674.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p19/p19383212/s59650046/2fb84fda-7c43b300-e3b48ae7-62ceaaa0-e62d36f6.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -16321,8 +16321,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p19/p19021197/s51756236/a0faf919-bbf73a2c-133518e2-5e8acfd8-ffa0946a.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p19/p19021197/s51756236/d407cac4-cb6d3e8b-75ce08a2-e1fe98a1-473a9a04.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p19/p19021197/s51756236/a0faf919-bbf73a2c-133518e2-5e8acfd8-ffa0946a.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p19/p19021197/s51756236/d407cac4-cb6d3e8b-75ce08a2-e1fe98a1-473a9a04.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -16800,8 +16800,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p19/p19125187/s57433522/09a5d722-c74ee3bf-d82aa69c-28940304-d80f67bc.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p19/p19125187/s57200686/2e879529-fafddfbf-0231fbc2-78ac5fda-d2425310.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p19/p19125187/s57433522/09a5d722-c74ee3bf-d82aa69c-28940304-d80f67bc.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p19/p19125187/s57200686/2e879529-fafddfbf-0231fbc2-78ac5fda-d2425310.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -17439,8 +17439,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p11/p11407180/s55312399/d1ee619c-deccc6eb-b24cd328-8e3112a3-1f7deebf.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p11/p11407180/s59295258/357a301e-b9d9b1bd-8be2242e-103a8f9d-62319670.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p11/p11407180/s55312399/d1ee619c-deccc6eb-b24cd328-8e3112a3-1f7deebf.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p11/p11407180/s59295258/357a301e-b9d9b1bd-8be2242e-103a8f9d-62319670.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -18063,8 +18063,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient34749/study52/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient34749/study4/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient34749/study52/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient34749/study4/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -18676,7 +18676,7 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p10/p10110764/s58771416/dad5aca3-cd745760-e9ab74fa-5c07a3d1-75b4def3.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p10/p10110764/s58771416/dad5aca3-cd745760-e9ab74fa-5c07a3d1-75b4def3.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -19321,10 +19321,10 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p14/p14473214/s50506903/e3748e7d-bbdf40c4-be051258-e305f1e7-f0bca270.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p14/p14473214/s50506903/32afecea-8c1ea0a4-61b5f1f1-85e02937-79f22649.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p14/p14473214/s54883773/1ee46ea0-e00f6826-b434a035-699682f6-afb2baf3.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p14/p14473214/s54883773/3904786d-f0fd8e07-58784339-7ef62371-a66b35f4.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p14/p14473214/s50506903/e3748e7d-bbdf40c4-be051258-e305f1e7-f0bca270.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p14/p14473214/s50506903/32afecea-8c1ea0a4-61b5f1f1-85e02937-79f22649.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p14/p14473214/s54883773/1ee46ea0-e00f6826-b434a035-699682f6-afb2baf3.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p14/p14473214/s54883773/3904786d-f0fd8e07-58784339-7ef62371-a66b35f4.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -19796,10 +19796,10 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p12/p12011741/s58222868/2b278e80-a734a28b-87ea86ec-b4fb5a0e-6a887351.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p12/p12011741/s58222868/dbab785a-9409a7db-285ba61b-ee819a22-a12a0813.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p12/p12011741/s52733144/0d5ba432-2ee8d15a-fcdf0ebe-d306ff4e-55a90944.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p12/p12011741/s52733144/af5d8192-30f003a5-0e591173-368e9f43-6395cd31.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p12/p12011741/s58222868/2b278e80-a734a28b-87ea86ec-b4fb5a0e-6a887351.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p12/p12011741/s58222868/dbab785a-9409a7db-285ba61b-ee819a22-a12a0813.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p12/p12011741/s52733144/0d5ba432-2ee8d15a-fcdf0ebe-d306ff4e-55a90944.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p12/p12011741/s52733144/af5d8192-30f003a5-0e591173-368e9f43-6395cd31.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -20434,8 +20434,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient36187/study17/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient36187/study5/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient36187/study17/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient36187/study5/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -20911,10 +20911,10 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p15/p15870433/s58596510/0b6dca7b-67d52d7b-66a0e61e-b5c23eac-593631d9.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p15/p15870433/s58596510/b5029c1a-6e1a8ae5-d4b7b6af-1750221a-3c23f899.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p15/p15870433/s51437019/af4eaffe-73c2b9b4-665aad8a-48120209-e02ce72c.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p15/p15870433/s51437019/5d229dba-7010d995-5b63e77b-9e4f34f4-2d64776e.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p15/p15870433/s58596510/0b6dca7b-67d52d7b-66a0e61e-b5c23eac-593631d9.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p15/p15870433/s58596510/b5029c1a-6e1a8ae5-d4b7b6af-1750221a-3c23f899.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p15/p15870433/s51437019/af4eaffe-73c2b9b4-665aad8a-48120209-e02ce72c.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p15/p15870433/s51437019/5d229dba-7010d995-5b63e77b-9e4f34f4-2d64776e.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -21384,7 +21384,7 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient28400/study1/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient28400/study1/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -21767,10 +21767,10 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient29362/study2/view2_lateral.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient29362/study2/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient29362/study1/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient29362/study1/view2_lateral.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient29362/study2/view2_lateral.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient29362/study2/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient29362/study1/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient29362/study1/view2_lateral.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -22095,9 +22095,9 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p14/p14638724/s56495334/ec680749-ea824854-dd2279a0-48431030-516cce9a.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p14/p14638724/s56495334/1901c74b-c6bde00c-a6e7d79d-f9be26aa-765efc61.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p14/p14638724/s54723245/2f4ce962-db8644d9-7c40295e-bbeffc36-bfee0695.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p14/p14638724/s56495334/ec680749-ea824854-dd2279a0-48431030-516cce9a.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p14/p14638724/s56495334/1901c74b-c6bde00c-a6e7d79d-f9be26aa-765efc61.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p14/p14638724/s54723245/2f4ce962-db8644d9-7c40295e-bbeffc36-bfee0695.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -22653,8 +22653,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p14/p14280581/s56472148/4c31787f-3099c06a-e60df6f1-c8549395-6d81ad58.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p14/p14280581/s51470944/d9e0ad21-6d587335-c939c6c5-f2155b05-440b9cba.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p14/p14280581/s56472148/4c31787f-3099c06a-e60df6f1-c8549395-6d81ad58.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p14/p14280581/s51470944/d9e0ad21-6d587335-c939c6c5-f2155b05-440b9cba.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -23092,7 +23092,7 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p15/p15092692/s50640161/ee1884c2-3ad4d511-7fb94fda-db260311-6d1c370d.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p15/p15092692/s50640161/ee1884c2-3ad4d511-7fb94fda-db260311-6d1c370d.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -23451,9 +23451,9 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient18382/study2/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient18382/study4/view2_lateral.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient18382/study4/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient18382/study2/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient18382/study4/view2_lateral.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient18382/study4/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -23940,7 +23940,7 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient22353/study1/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient22353/study1/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -24429,8 +24429,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p16/p16476559/s53743073/b3d84ce0-a981124c-205567bc-a418c87c-611da6fd.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p16/p16476559/s56001799/5fdc5781-e088791a-7c71a99d-6556e726-bc6d332f.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p16/p16476559/s53743073/b3d84ce0-a981124c-205567bc-a418c87c-611da6fd.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p16/p16476559/s56001799/5fdc5781-e088791a-7c71a99d-6556e726-bc6d332f.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -25120,8 +25120,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient00467/study15/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient00467/study41/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient00467/study15/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient00467/study41/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -25435,8 +25435,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p16/p16429669/s52207362/1f9d385e-3d2307f6-4aa1981f-d6c91684-76933c49.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p16/p16429669/s52207362/04a3410d-949db2b4-825874b2-9ae7c3fd-3212fe1d.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p16/p16429669/s52207362/1f9d385e-3d2307f6-4aa1981f-d6c91684-76933c49.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p16/p16429669/s52207362/04a3410d-949db2b4-825874b2-9ae7c3fd-3212fe1d.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -25977,10 +25977,10 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p11/p11030383/s53949453/d15eae9d-b622d8ea-dbf6a42f-6419461e-19313924.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p11/p11030383/s53949453/1b28bcba-7fa05786-4690bacb-e5a4abed-95c6458f.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p11/p11030383/s50662782/7ae3dd94-13fd1c64-365ca9f2-77c09294-80e62088.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p11/p11030383/s50662782/5fd81787-672c32d1-9e6a43de-9d345c57-88f8db86.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p11/p11030383/s53949453/d15eae9d-b622d8ea-dbf6a42f-6419461e-19313924.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p11/p11030383/s53949453/1b28bcba-7fa05786-4690bacb-e5a4abed-95c6458f.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p11/p11030383/s50662782/7ae3dd94-13fd1c64-365ca9f2-77c09294-80e62088.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p11/p11030383/s50662782/5fd81787-672c32d1-9e6a43de-9d345c57-88f8db86.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -26625,8 +26625,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p15/p15203939/s55148887/6b33c7b6-d8563008-9f8ddeab-9a3778fe-045a44b2.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p15/p15203939/s55148887/286772da-ea45c8aa-c4b58bcb-0cbc8bb1-819e6cd6.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p15/p15203939/s55148887/6b33c7b6-d8563008-9f8ddeab-9a3778fe-045a44b2.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p15/p15203939/s55148887/286772da-ea45c8aa-c4b58bcb-0cbc8bb1-819e6cd6.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -27242,8 +27242,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p11/p11953959/s53043994/7bfe1cfe-6bac4c37-41a71759-a6e60586-757dd88f.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p11/p11953959/s56006684/10a6a69f-c1a5904f-bc276c6c-b04856c2-f20228f1.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p11/p11953959/s53043994/7bfe1cfe-6bac4c37-41a71759-a6e60586-757dd88f.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p11/p11953959/s56006684/10a6a69f-c1a5904f-bc276c6c-b04856c2-f20228f1.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -27951,9 +27951,9 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p15/p15641146/s59095329/1bee3323-df99e246-68361974-aa3e4d4a-fac25a78.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p15/p15641146/s55008566/dad0c3e3-0f21de52-7e6d44b2-31da9320-0523a9d8.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p15/p15641146/s55008566/a622d064-fc053edc-eb1b6e88-8f41f90f-20d2b280.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p15/p15641146/s59095329/1bee3323-df99e246-68361974-aa3e4d4a-fac25a78.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p15/p15641146/s55008566/dad0c3e3-0f21de52-7e6d44b2-31da9320-0523a9d8.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p15/p15641146/s55008566/a622d064-fc053edc-eb1b6e88-8f41f90f-20d2b280.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -28758,8 +28758,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient38505/study4/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient38505/study3/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient38505/study4/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient38505/study3/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -29477,8 +29477,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient15724/study25/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient15724/study20/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient15724/study25/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient15724/study20/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -30127,10 +30127,10 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p14/p14494681/s50676935/bd3da08a-8ff6a479-607dd624-a6907518-6d20de4e.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p14/p14494681/s50676935/b62436c4-241811b2-51666a07-5fe225fe-2097f4fb.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p14/p14494681/s58686716/355dfd19-2b6c5b31-ca676109-7f2fed86-c9e0d1d5.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p14/p14494681/s58686716/e90d9519-5b9a5ef9-e1f8c3b3-30124c22-10090e78.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p14/p14494681/s50676935/bd3da08a-8ff6a479-607dd624-a6907518-6d20de4e.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p14/p14494681/s50676935/b62436c4-241811b2-51666a07-5fe225fe-2097f4fb.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p14/p14494681/s58686716/355dfd19-2b6c5b31-ca676109-7f2fed86-c9e0d1d5.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p14/p14494681/s58686716/e90d9519-5b9a5ef9-e1f8c3b3-30124c22-10090e78.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -30812,8 +30812,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient45646/study2/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient45646/study1/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient45646/study2/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient45646/study1/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -31398,8 +31398,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p14/p14245674/s56194195/163f876a-10785d17-049d481f-839801fb-214e8963.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p14/p14245674/s56194195/6c95b2a0-0b7cca37-e0e9d5da-a65003ea-8c44f2b9.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p14/p14245674/s56194195/163f876a-10785d17-049d481f-839801fb-214e8963.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p14/p14245674/s56194195/6c95b2a0-0b7cca37-e0e9d5da-a65003ea-8c44f2b9.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -32167,7 +32167,7 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p13/p13917127/s54976494/d43bfb45-f3eb6515-5638f3de-a360590c-5c41a65b.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p13/p13917127/s54976494/d43bfb45-f3eb6515-5638f3de-a360590c-5c41a65b.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -33077,10 +33077,10 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p18/p18312580/s58897052/e7cbcb28-3b5ed09e-d0d898b2-bf4d7569-59eb3626.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p18/p18312580/s58897052/d591797f-0e05dd3c-6622285b-6efdf1e6-31cef029.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p18/p18312580/s56409497/9e68e2d1-f4a64bd9-c1489625-edb3a357-f7101c65.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p18/p18312580/s56409497/93fb2281-b3f9a1d4-e32ca203-d61f62c7-3dd07696.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p18/p18312580/s58897052/e7cbcb28-3b5ed09e-d0d898b2-bf4d7569-59eb3626.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p18/p18312580/s58897052/d591797f-0e05dd3c-6622285b-6efdf1e6-31cef029.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p18/p18312580/s56409497/9e68e2d1-f4a64bd9-c1489625-edb3a357-f7101c65.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p18/p18312580/s56409497/93fb2281-b3f9a1d4-e32ca203-d61f62c7-3dd07696.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -33737,10 +33737,10 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p14/p14767483/s59167482/38eebb0c-ea302c01-edfd2288-c2380ee9-15fa2925.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p14/p14767483/s59167482/c28a0274-f1f5a14b-144a55f1-362d3493-c181dc23.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p14/p14767483/s59942617/7e3be589-2f3424c3-40195a3e-14df8c04-4d36e6fb.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p14/p14767483/s59942617/e38c4034-417baf65-979446af-a2c01fb3-1808b52e.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p14/p14767483/s59167482/38eebb0c-ea302c01-edfd2288-c2380ee9-15fa2925.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p14/p14767483/s59167482/c28a0274-f1f5a14b-144a55f1-362d3493-c181dc23.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p14/p14767483/s59942617/7e3be589-2f3424c3-40195a3e-14df8c04-4d36e6fb.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p14/p14767483/s59942617/e38c4034-417baf65-979446af-a2c01fb3-1808b52e.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -34379,10 +34379,10 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p19/p19157548/s51731738/b88eb626-3ebb37c7-a0f7de3b-c25b8542-132ae822.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p19/p19157548/s51731738/d2ff8d97-1f75a82a-8aaab2c4-7a7d4482-b8d35653.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p19/p19157548/s57758604/ab7af424-0c90c4c3-0ac78c40-bce945f6-02c2e3f5.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p19/p19157548/s57758604/0a1f2084-ab4eb0f8-1326dc4f-69b986e8-20cd5b20.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p19/p19157548/s51731738/b88eb626-3ebb37c7-a0f7de3b-c25b8542-132ae822.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p19/p19157548/s51731738/d2ff8d97-1f75a82a-8aaab2c4-7a7d4482-b8d35653.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p19/p19157548/s57758604/ab7af424-0c90c4c3-0ac78c40-bce945f6-02c2e3f5.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p19/p19157548/s57758604/0a1f2084-ab4eb0f8-1326dc4f-69b986e8-20cd5b20.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -35051,8 +35051,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient51498/study2/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient51498/study1/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient51498/study2/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient51498/study1/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -35525,8 +35525,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p12/p12129052/s59098914/912c9f44-6bbc7884-da84c3dc-af08c506-65107df8.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p12/p12129052/s59098914/f14ad61f-3cc18b62-ed0c94b4-3115f7ee-c239d16b.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p12/p12129052/s59098914/912c9f44-6bbc7884-da84c3dc-af08c506-65107df8.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p12/p12129052/s59098914/f14ad61f-3cc18b62-ed0c94b4-3115f7ee-c239d16b.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -36263,10 +36263,10 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p17/p17974554/s54617263/149075e2-ef3f0160-e341d13b-a4c7e77d-a6cb9b1a.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p17/p17974554/s54617263/f9e44007-58444c27-17fef965-56efdc6c-000e3f38.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p17/p17974554/s58331388/5771ce86-66818ddd-bd2b3f2e-74f5de1e-ee2eacaf.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p17/p17974554/s58331388/cb7bfd10-f95445c4-7d462b74-7de00e12-2576ebaf.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p17/p17974554/s54617263/149075e2-ef3f0160-e341d13b-a4c7e77d-a6cb9b1a.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p17/p17974554/s54617263/f9e44007-58444c27-17fef965-56efdc6c-000e3f38.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p17/p17974554/s58331388/5771ce86-66818ddd-bd2b3f2e-74f5de1e-ee2eacaf.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p17/p17974554/s58331388/cb7bfd10-f95445c4-7d462b74-7de00e12-2576ebaf.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -37223,9 +37223,9 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p12/p12117907/s55100500/38a74bd5-bf3c9046-a0de85df-00dda553-9b1264f0.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p12/p12117907/s57268429/bba544c4-59879b13-6d29071e-c0909850-15a45278.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p12/p12117907/s57268429/75c378fe-1ae77bf4-94fbbbf9-017ce38e-c4e54c90.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p12/p12117907/s55100500/38a74bd5-bf3c9046-a0de85df-00dda553-9b1264f0.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p12/p12117907/s57268429/bba544c4-59879b13-6d29071e-c0909850-15a45278.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p12/p12117907/s57268429/75c378fe-1ae77bf4-94fbbbf9-017ce38e-c4e54c90.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -37930,8 +37930,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p18/p18531331/s50275576/987a3e6b-b0c72af8-b218fb05-dd78e527-ec4f34b9.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p18/p18531331/s52019588/a96e4355-6cbe6b14-e14ad02b-789faab4-06b8055a.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p18/p18531331/s50275576/987a3e6b-b0c72af8-b218fb05-dd78e527-ec4f34b9.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p18/p18531331/s52019588/a96e4355-6cbe6b14-e14ad02b-789faab4-06b8055a.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -38294,8 +38294,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p16/p16358853/s51066899/0d3ca5d0-4369f22f-dd1e8ea3-bd4e8e3e-2e320501.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p16/p16358853/s53759176/3daf330f-04eef5e4-ec1805f8-32e02389-a45ff2a5.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p16/p16358853/s51066899/0d3ca5d0-4369f22f-dd1e8ea3-bd4e8e3e-2e320501.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p16/p16358853/s53759176/3daf330f-04eef5e4-ec1805f8-32e02389-a45ff2a5.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -38952,7 +38952,7 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p19/p19643082/s58651876/f518f651-5809fd29-6d5409ed-8d1d8bbf-7b27cd27.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p19/p19643082/s58651876/f518f651-5809fd29-6d5409ed-8d1d8bbf-7b27cd27.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -39527,7 +39527,7 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient13247/study1/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient13247/study1/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -39907,7 +39907,7 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient61331/study1/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient61331/study1/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -40537,8 +40537,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p15/p15628922/s58435588/2bab69a6-90d90a38-4f78c645-d95c6eda-413241fb.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p15/p15628922/s51338408/a6663c4f-8fe02d55-509ff03a-4ea78efb-d96e0366.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p15/p15628922/s58435588/2bab69a6-90d90a38-4f78c645-d95c6eda-413241fb.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p15/p15628922/s51338408/a6663c4f-8fe02d55-509ff03a-4ea78efb-d96e0366.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -41339,10 +41339,10 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p16/p16445072/s58475984/798b514a-29fa4d80-1123f359-27e41393-e6f065f4.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p16/p16445072/s58475984/dc06b78c-df173d95-6283edae-5ff1c1c6-5e359541.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p16/p16445072/s58035334/ab7c72ca-e0f805a3-246b915d-9eb7c7b0-99011cde.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p16/p16445072/s58035334/112de0b4-98c429ea-a6e6ae47-44c42ed5-90574305.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p16/p16445072/s58475984/798b514a-29fa4d80-1123f359-27e41393-e6f065f4.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p16/p16445072/s58475984/dc06b78c-df173d95-6283edae-5ff1c1c6-5e359541.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p16/p16445072/s58035334/ab7c72ca-e0f805a3-246b915d-9eb7c7b0-99011cde.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p16/p16445072/s58035334/112de0b4-98c429ea-a6e6ae47-44c42ed5-90574305.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -42021,10 +42021,10 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p17/p17913240/s56182838/b5b80a5f-40f7e208-d1a23ddf-aacd1817-0a9cba92.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p17/p17913240/s56182838/c398bfe2-0e88716c-80eb38d2-f2d7d16a-b16a3303.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p17/p17913240/s58016158/a49d38f7-73fe4489-3aefd75d-0ca9cc4f-5314684f.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p17/p17913240/s58016158/589bc982-3bd9788e-b13b19ae-b824fbb2-2e74a0ef.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p17/p17913240/s56182838/b5b80a5f-40f7e208-d1a23ddf-aacd1817-0a9cba92.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p17/p17913240/s56182838/c398bfe2-0e88716c-80eb38d2-f2d7d16a-b16a3303.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p17/p17913240/s58016158/a49d38f7-73fe4489-3aefd75d-0ca9cc4f-5314684f.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p17/p17913240/s58016158/589bc982-3bd9788e-b13b19ae-b824fbb2-2e74a0ef.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -42661,8 +42661,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient22292/study3/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient22292/study1/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient22292/study3/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient22292/study1/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -43076,8 +43076,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p10/p10963517/s53169685/f7f51c53-bb77bb36-c42ffad8-324cb3ba-c3260fa4.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p10/p10963517/s53169685/c96e35bd-87555b0e-b2755dc3-5888e5cd-4edece49.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p10/p10963517/s53169685/f7f51c53-bb77bb36-c42ffad8-324cb3ba-c3260fa4.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p10/p10963517/s53169685/c96e35bd-87555b0e-b2755dc3-5888e5cd-4edece49.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -43500,8 +43500,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p13/p13242100/s58859457/5c06a9ed-96e10aff-4a3e5987-fe02e5b5-e4d1479e.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p13/p13242100/s58859457/02ce4c4a-2dece0c6-d21f5944-85413086-d66d66b3.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p13/p13242100/s58859457/5c06a9ed-96e10aff-4a3e5987-fe02e5b5-e4d1479e.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p13/p13242100/s58859457/02ce4c4a-2dece0c6-d21f5944-85413086-d66d66b3.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -43985,7 +43985,7 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p13/p13604162/s58733763/a338f49b-f6af7516-4b395332-f0c693d1-d5fa9fac.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p13/p13604162/s58733763/a338f49b-f6af7516-4b395332-f0c693d1-d5fa9fac.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -44734,8 +44734,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient37322/study4/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient37322/study2/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient37322/study4/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient37322/study2/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -45419,10 +45419,10 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p14/p14110132/s54432462/3f1e7d4e-d8ff1b46-6c595175-5ae00d64-70b9a8f1.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p14/p14110132/s54432462/4de68208-17445aff-25063dcc-0b99c7fc-ac5ff8eb.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p14/p14110132/s55240679/1f7c836c-adbd7ded-8f084cd4-3159b2ad-f53268b5.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p14/p14110132/s55240679/8bc4b70e-f2643deb-270b39df-1e4006f9-a6154b12.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p14/p14110132/s54432462/3f1e7d4e-d8ff1b46-6c595175-5ae00d64-70b9a8f1.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p14/p14110132/s54432462/4de68208-17445aff-25063dcc-0b99c7fc-ac5ff8eb.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p14/p14110132/s55240679/1f7c836c-adbd7ded-8f084cd4-3159b2ad-f53268b5.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p14/p14110132/s55240679/8bc4b70e-f2643deb-270b39df-1e4006f9-a6154b12.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -46044,8 +46044,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p11/p11195031/s58221329/1d05031f-ba75e9da-baa526b1-0e9198e2-1f749ddd.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p11/p11195031/s58221329/f38ee0f9-3f19d718-feab44dc-148da64b-124f3066.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p11/p11195031/s58221329/1d05031f-ba75e9da-baa526b1-0e9198e2-1f749ddd.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p11/p11195031/s58221329/f38ee0f9-3f19d718-feab44dc-148da64b-124f3066.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -46548,7 +46548,7 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient11856/study1/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient11856/study1/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -46929,8 +46929,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient39356/study3/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient39356/study1/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient39356/study3/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient39356/study1/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -47392,8 +47392,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p16/p16610979/s57331737/0a553891-c2586eb9-4e422844-06156b84-0a67db35.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p16/p16610979/s57331737/374a8966-a36b71f8-f6600c8d-cff6b90c-22875fc0.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p16/p16610979/s57331737/0a553891-c2586eb9-4e422844-06156b84-0a67db35.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p16/p16610979/s57331737/374a8966-a36b71f8-f6600c8d-cff6b90c-22875fc0.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -47939,8 +47939,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient21624/study7/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient21624/study1/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient21624/study7/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient21624/study1/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -48633,8 +48633,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p12/p12864997/s53325257/b86cdea1-13e23888-be1407d3-0c29212f-f49b5983.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p12/p12864997/s56922974/ffdb10ac-88a7c30a-e0ff3e36-df6b4798-09bdd9ff.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p12/p12864997/s53325257/b86cdea1-13e23888-be1407d3-0c29212f-f49b5983.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p12/p12864997/s56922974/ffdb10ac-88a7c30a-e0ff3e36-df6b4798-09bdd9ff.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -49200,8 +49200,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p13/p13479967/s50553735/9b86931c-2a0d1db6-8abc4b65-252edb8f-0cd410e5.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p13/p13479967/s50553735/46caa3e5-bd00e22c-40c76404-3315acfd-320007d2.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p13/p13479967/s50553735/9b86931c-2a0d1db6-8abc4b65-252edb8f-0cd410e5.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p13/p13479967/s50553735/46caa3e5-bd00e22c-40c76404-3315acfd-320007d2.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -49629,10 +49629,10 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p18/p18388060/s58118748/33ee95ec-cecb2499-31d16c69-de7d6976-7edf0a1e.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p18/p18388060/s58118748/4889426b-64bcc720-3a36642a-df25353b-9237b0dd.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p18/p18388060/s50525186/19958356-ffc44362-9925d2d5-dd3ce5d6-a1059604.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p18/p18388060/s50525186/02c02f05-5d909738-1c1b1550-eb60dd40-6e81db21.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p18/p18388060/s58118748/33ee95ec-cecb2499-31d16c69-de7d6976-7edf0a1e.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p18/p18388060/s58118748/4889426b-64bcc720-3a36642a-df25353b-9237b0dd.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p18/p18388060/s50525186/19958356-ffc44362-9925d2d5-dd3ce5d6-a1059604.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p18/p18388060/s50525186/02c02f05-5d909738-1c1b1550-eb60dd40-6e81db21.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -50205,8 +50205,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p12/p12070979/s54217330/bb73df8b-d51f5e8c-3e8d5d24-4e95ad3d-f1cb67af.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p12/p12070979/s54217330/55be4fee-31645318-ca9b6a7a-f4bbfb36-877aec12.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p12/p12070979/s54217330/bb73df8b-d51f5e8c-3e8d5d24-4e95ad3d-f1cb67af.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p12/p12070979/s54217330/55be4fee-31645318-ca9b6a7a-f4bbfb36-877aec12.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -50737,8 +50737,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient14710/study2/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient14710/study1/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient14710/study2/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient14710/study1/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -51093,9 +51093,9 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p19/p19599798/s59325588/f14c7f2b-3d226fe6-2432f52c-db859f2c-49c4a98b.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p19/p19599798/s59749042/98d46c3c-c713b10d-fa124b30-82143109-00ec91b4.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p19/p19599798/s59749042/0ec7fb21-b1982e67-b3250556-efa1b97a-bceab818.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p19/p19599798/s59325588/f14c7f2b-3d226fe6-2432f52c-db859f2c-49c4a98b.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p19/p19599798/s59749042/98d46c3c-c713b10d-fa124b30-82143109-00ec91b4.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p19/p19599798/s59749042/0ec7fb21-b1982e67-b3250556-efa1b97a-bceab818.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -51693,10 +51693,10 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p12/p12115320/s59000079/fbd6c84e-1572122c-e20410ce-f6dfcab6-6b91b838.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p12/p12115320/s59000079/c15fdb18-932f0a0e-a1d73608-07976855-08ca38a4.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p12/p12115320/s58764267/d74c93d1-8e270301-0ca4851c-de14f57a-34f562b9.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p12/p12115320/s58764267/2d0e8420-c2a08d93-78ef2a8d-ec196b9e-af0889ad.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p12/p12115320/s59000079/fbd6c84e-1572122c-e20410ce-f6dfcab6-6b91b838.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p12/p12115320/s59000079/c15fdb18-932f0a0e-a1d73608-07976855-08ca38a4.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p12/p12115320/s58764267/d74c93d1-8e270301-0ca4851c-de14f57a-34f562b9.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p12/p12115320/s58764267/2d0e8420-c2a08d93-78ef2a8d-ec196b9e-af0889ad.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -52379,8 +52379,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient25293/study2/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient25293/study1/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient25293/study2/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient25293/study1/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -53085,9 +53085,9 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p15/p15281216/s54134261/01595765-a217d75d-1bfe58e2-6535c744-0d59ddd8.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p15/p15281216/s52698950/e5611745-968a4a5d-5663ca01-bdf6b8f1-546852c2.jpg",
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p15/p15281216/s52698950/9e260c3b-4327c21a-8d909d22-8ca1f9d0-01eb97a7.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p15/p15281216/s54134261/01595765-a217d75d-1bfe58e2-6535c744-0d59ddd8.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p15/p15281216/s52698950/e5611745-968a4a5d-5663ca01-bdf6b8f1-546852c2.jpg",
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p15/p15281216/s52698950/9e260c3b-4327c21a-8d909d22-8ca1f9d0-01eb97a7.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -53877,8 +53877,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient43457/study4/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient43457/study2/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient43457/study4/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient43457/study2/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -54477,8 +54477,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient29886/study2/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient29886/study1/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient29886/study2/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient29886/study1/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -54941,8 +54941,8 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient42916/study5/view1_frontal.png",
-            "/remote-home/xiaowu/Guanjq/Images/chexpert/train/patient42916/study4/view1_frontal.png"
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient42916/study5/view1_frontal.png",
+            "/home/Guanjq/Work/VQAGen/Images/chexpert/train/patient42916/study4/view1_frontal.png"
         ],
         "data_dict": {
             "cxrtrek_data": {
@@ -55402,7 +55402,7 @@
             }
         ],
         "image": [
-            "/remote-home/xiaowu/Guanjq/Images/mimic_cxr/p15/p15505424/s57169720/1326f5ce-69243048-d5ccbec9-43a7b5a7-ed109b09.jpg"
+            "/home/Guanjq/Work/VQAGen/Images/mimic_cxr/p15/p15505424/s57169720/1326f5ce-69243048-d5ccbec9-43a7b5a7-ed109b09.jpg"
         ],
         "data_dict": {
             "cxrtrek_data": {
